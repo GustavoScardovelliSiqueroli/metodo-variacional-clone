@@ -25,7 +25,7 @@ First, setup a virtualenvironment and install the requirements:
 $ python -m virtualenv venv
 ```
 ```console
-$ source venv/bin/activate
+$ venv/Scripts/activate
 ```
 ```console
 $ pip install -r requirements.txt
