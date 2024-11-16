@@ -158,4 +158,3 @@ cython_debug/
 test-reports
 
 # Generated plots:
-data/
